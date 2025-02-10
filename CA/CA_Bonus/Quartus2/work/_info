@@ -1,0 +1,46 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\Desktop\DLD_CA5\simulation\modelsim
+vreciprocal
+Z1 !s100 1V=Mak<:K_nmLj2]zKLaj0
+Z2 IbF;5DOoF@O^5aj`bGJEl@0
+Z3 VE38:zg58Hz:=WOgXH:k7]2
+Z4 dC:\Users\Asus\Desktop\DLD_CA5\simulation\modelsim
+Z5 w1738278248
+Z6 8C:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/reciprocal.svo
+Z7 FC:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/reciprocal.svo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/reciprocal.svo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1738280295.576000
+Z12 !s107 C:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/reciprocal.svo|
+!s101 -O0
+vreciprocal_tbb
+Z13 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z14 !s100 ]>jBCEL`U`aCPVO=CTS;j2
+Z15 ISENPW3:BQR1Ulnb4X1K551
+Z16 V26R`?J5lBBC9@4:4><F6>0
+Z17 !s105 TB_sv_unit
+S1
+R4
+Z18 w1738280242
+Z19 8C:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/TB.sv
+Z20 FC:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/TB.sv
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1738280295.639000
+!s107 C:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/TB.sv|
+Z21 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Asus/Desktop/DLD_CA5/simulation/modelsim/TB.sv|
+!s101 -O0
+Z22 o-work work -sv -O0
